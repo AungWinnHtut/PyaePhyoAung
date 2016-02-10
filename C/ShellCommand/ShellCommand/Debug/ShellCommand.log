@@ -1,0 +1,21 @@
+﻿Build started 2/10/2016 2:08:04 PM.
+     1>Project "L:\Students\2PyaePhyoAung\code\C\ShellCommand\ShellCommand\ShellCommand.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ShellCommand.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ShellCommand.cpp
+         ShellCommand.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\Students\2PyaePhyoAung\code\C\ShellCommand\Debug\ShellCommand.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ShellCommand.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"L:\Students\2PyaePhyoAung\code\C\ShellCommand\Debug\ShellCommand.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"L:\Students\2PyaePhyoAung\code\C\ShellCommand\Debug\ShellCommand.lib" /MACHINE:X86 Debug\ShellCommand.obj
+         LINK : L:\Students\2PyaePhyoAung\code\C\ShellCommand\Debug\ShellCommand.exe not found or not built by the last incremental link; performing full link
+         ShellCommand.vcxproj -> L:\Students\2PyaePhyoAung\code\C\ShellCommand\Debug\ShellCommand.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"L:\Students\2PyaePhyoAung\code\C\ShellCommand\Debug\ShellCommand.exe;#1" /manifest Debug\ShellCommand.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\ShellCommand.unsuccessfulbuild".
+         Touching "Debug\ShellCommand.lastbuildstate".
+     1>Done Building Project "L:\Students\2PyaePhyoAung\code\C\ShellCommand\ShellCommand\ShellCommand.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.32
